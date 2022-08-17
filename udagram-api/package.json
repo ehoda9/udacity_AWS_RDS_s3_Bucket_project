@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "udagram-api-udacity",
   "engines": {
-    "node": "16.17.0"
+    "node": "16.5.0"
   },
  "scripts": {
     "start": "node ./www/server.js",
