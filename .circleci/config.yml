@@ -1,4 +1,4 @@
-ersion: 2.1
+ersion: 2.0
 orbs:
   # orgs contain basc recipes and reproducible actions (install node, aws, etc.)
   node: circleci/node@5.0.2
