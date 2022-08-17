@@ -58,7 +58,7 @@ jobs:
       - run:
           name: Deploy App
           command: |
-            npm run deploy
+            npm run api:deploy
 
 workflows:
   udagram:
