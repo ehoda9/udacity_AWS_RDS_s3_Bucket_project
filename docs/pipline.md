@@ -8,6 +8,7 @@ there are too many pipline platforms but in this app we will use [CircleCI]
   we can too setup environment variables in CircleCI GUI
 
 ### How pipline work ?
+You can think of him as someone who works for you and you tell him some tasks to do for you to save time
 
 We imagine that we have a team of developers working on a project
 For example, we have a project repo in the Github platform
