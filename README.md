@@ -6,7 +6,9 @@ The project will also include writing documentation and runbooks covering the op
 
 The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-- frontend-live: http://udagrambucket.s3-website-us-east-1.amazonaws.com
+you can test  live production application 
+take a look at docs/infrastructure.md
+- Servers-URL: [live-preview](docs/infrastructure.md)
 
 
 
