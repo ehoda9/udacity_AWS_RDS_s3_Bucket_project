@@ -59,11 +59,6 @@ jobs:
           name: Deploy App
           command: |
             npm run deploy
-      - run:
-          name: Configure environment variables
-          command: |
-            npm run env
-
 workflows:
   udagram:
     jobs:
