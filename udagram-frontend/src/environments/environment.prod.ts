@@ -4,9 +4,10 @@
 
 export const environment = {
   production: true,
-  appName: 'udacityproject',
+  appName: 'udagram-api-dev',
   apiHost: 'http://udagram-api-dev.eba-3qys4stt.us-east-1.elasticbeanstalk.com/api/v0',
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
