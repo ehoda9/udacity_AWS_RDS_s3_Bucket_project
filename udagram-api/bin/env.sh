@@ -1,4 +1,5 @@
 # Configure Environment Variables
+cd ..
 eb list 
 eb use udagram-api-dev
 eb setenv POSTGRES_USERNAME=$POSTGRES_USERNAME
