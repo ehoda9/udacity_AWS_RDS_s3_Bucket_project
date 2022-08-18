@@ -11,4 +11,11 @@
 
 - A S3 bucket for hosting uploaded pictures.
 
+- A JWT Token for Authantication users
+
+- A pg NPM library to handle postgres connection and queries etc...
+
+- A dotenv for read Environment Variables from .env
+
+- A sequelize to handle connection to RDS database
 ```
